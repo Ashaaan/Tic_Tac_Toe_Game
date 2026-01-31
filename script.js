@@ -3,6 +3,7 @@ let reset = document.querySelector("#reset");
 let container = document.querySelector(".msg-container");
 let win = document.querySelector(".win");
 let newBtn = document.querySelector(".new");
+let count = 1;
 
 let turnO = true;
 let winPatterns = [
@@ -37,7 +38,7 @@ let enable = () => {
 btn.forEach((box) => {
   box.addEventListener("click", () => {
     console.log("The button was clicked");
-    let count = 1;
+
     if (turnO) {
       box.innerText = "O";
       turnO = false;
