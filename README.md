@@ -1,10 +1,12 @@
-##🕹️ Tic-Tac-Toe Modern
+# 🕹️ Tic-Tac-Toe Modern
+
 A sleek, responsive Tic-Tac-Toe web application featuring a high-contrast dark theme and smooth game logic. Built with Vanilla JavaScript and Tailwind CSS.
 
-##🚀 Live Demo
+## 🚀 Live Demo
+
 Check out the game here: [Your GitHub Pages Link Here]
 
-##✨ Features
+## ✨ Features
 
 - **Modern UI**: Utilizes Tailwind's linear-gradient utilities and glassmorphism-inspired overlays.
 
@@ -14,7 +16,7 @@ Check out the game here: [Your GitHub Pages Link Here]
 
 - **Smart State Management**: Prevents move overwriting by disabling clicked buttons and locking the board upon victory.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **HTML5**: Semantic markup.
 
@@ -22,7 +24,8 @@ Check out the game here: [Your GitHub Pages Link Here]
 
 - **JavaScript (ES6)**: DOM manipulation, event delegation, and game state logic.
 
-#🧠 Technical Logic
+# 🧠 Technical Logic
+
 The game uses a 1D array representation of the 3x3 grid. After every turn, the engine validates the board against the following winning matrix:
 
 - **JavaScript**
