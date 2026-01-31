@@ -24,7 +24,7 @@ Check out the game here: [Your GitHub Pages Link Here]
 
 - **JavaScript (ES6)**: DOM manipulation, event delegation, and game state logic.
 
-# 🧠 Technical Logic
+## 🧠 Technical Logic
 
 The game uses a 1D array representation of the 3x3 grid. After every turn, the engine validates the board against the following winning matrix:
 
