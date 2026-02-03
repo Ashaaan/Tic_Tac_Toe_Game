@@ -4,7 +4,7 @@ A sleek, responsive Tic-Tac-Toe web application featuring a high-contrast dark t
 
 ## 🚀 Live Demo
 
-Check out the game here: [Your GitHub Pages Link Here]
+Check out the game here: [[Link to the game](https://ashaaan.github.io/Tic_Tac_Toe_Game/)]
 
 ## ✨ Features
 
@@ -40,3 +40,7 @@ The game uses a 1D array representation of the 3x3 grid. After every turn, the e
 - **Validation**: Loops through winPatterns to see if the innerText of three specific buttons matches and is not empty.
 
 - **UI Feedback**: When a winner is found, a hidden msg-container is revealed using Tailwind's hidden class toggle.
+
+## Live demo!
+
+- **Click**:Link at
