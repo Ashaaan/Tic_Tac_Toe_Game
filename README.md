@@ -41,6 +41,6 @@ The game uses a 1D array representation of the 3x3 grid. After every turn, the e
 
 - **UI Feedback**: When a winner is found, a hidden msg-container is revealed using Tailwind's hidden class toggle.
 
-## Live demo!
+## Screenshots!
 
-- **Click**:Link at
+- **Desktop**:![App screenshots](screenshots/Screenshot%202026-02-03%20130348.png)
